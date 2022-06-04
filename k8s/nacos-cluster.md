@@ -122,6 +122,7 @@ spec:
 
 
 #### 官方部署yaml
+github：https://github.com/nacos-group/nacos-k8s.git
 ```yaml
 ##使用自建数据库；使用Ingress发布配置后台###
 ---
