@@ -12,6 +12,8 @@
 #### spec：资源期望的状态
 #### status：当前状态，该字段由k8s集群维护，用户不能对其进行修改。
 
+#### 各种资源通用的常用字段如下
+![](../images/k8s-resource.png)
 #### spec
     spec.containers.name ： pod的名称，必须字段，名称唯一且对象创建后不可以被修改
     spec.containers.image ：镜像仓库的路径/镜像的名称( 镜像的标签 )
