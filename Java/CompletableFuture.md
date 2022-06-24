@@ -1,6 +1,6 @@
 ### CompletableFuture
 ![](../images/CompletableFuture.jpeg)
-
+[比较详细的介绍](https://blog.csdn.net/sermonlizhi/article/details/123356877)
 
 ### 实例化
 ```java
